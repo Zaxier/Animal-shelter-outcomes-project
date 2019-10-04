@@ -11,23 +11,23 @@ The data set contains approximately 100,000 records and was stored in a Hadoop d
 
 ### Modelling Process
 
-![1570190255463](/home/xavier/.config/Typora/typora-user-images/1570190255463.png)
+![1570190255463](./1570190255463.png)
 
 ### Preliminary EDA
 
-![1570190241474](/home/xavier/.config/Typora/typora-user-images/1570190241474.png)
+![1570190241474](./1570190241474.png)
 
 
 
-![1570190309290](/home/xavier/.config/Typora/typora-user-images/1570190309290.png)
+![1570190309290](./1570190309290.png)
 
-![1570190741445](/home/xavier/.config/Typora/typora-user-images/1570190741445.png)
+![1570190741445](./1570190741445.png)
 
 
 
-![1570190786506](/home/xavier/.config/Typora/typora-user-images/1570190786506.png)
+![1570190786506](./1570190786506.png)
 
-![1570190817117](/home/xavier/.config/Typora/typora-user-images/1570190817117.png)
+![1570190817117](./1570190817117.png)
 
 ## Feature wrangling, engineering and selection
 
@@ -728,7 +728,7 @@ with tempfile.NamedTemporaryFile(suffix=".png") as fo:
 
 
 
-![png](/home/xavier/Projects/animal-shelter-project-git/redme/output_18_0.png)
+![png](./output_18_0.png)
 
 
 
@@ -879,9 +879,9 @@ AACcorr.show()
 
 
 
-![1570190909648](/home/xavier/.config/Typora/typora-user-images/1570190909648.png)
+![1570190909648](./1570190909648.png)
 
-![1570190939736](/home/xavier/.config/Typora/typora-user-images/1570190939736.png)
+![1570190939736](./1570190939736.png)
 
 
 
@@ -903,7 +903,7 @@ with tempfile.NamedTemporaryFile(suffix=".png") as fo:
 
 
 
-![png](/home/xavier/Projects/animal-shelter-project-git/redme/output_25_0.png)
+![png](./output_25_0.png)
 
 ```scala
 %%python
@@ -925,7 +925,7 @@ with tempfile.NamedTemporaryFile(suffix=".png") as fo:
 
 
 
-![png](/home/xavier/Projects/animal-shelter-project-git/redme/output_28_0.png)
+![png](./output_28_0.png)
 
 
 
@@ -945,7 +945,7 @@ with tempfile.NamedTemporaryFile(suffix=".png") as fo:
 
 
 
-![png](/home/xavier/Projects/animal-shelter-project-git/redme/output_29_0.png)
+![png](./output_29_0.png)
 
 
 
@@ -1192,5 +1192,5 @@ evaluate_prediction("Logistic Regression", lr_prediction, target_feat, "predicti
 
 ## Algorithm Results
 
-![1570191012004](/home/xavier/.config/Typora/typora-user-images/1570191012004.png)
+![1570191012004](./1570191012004.png)
 
